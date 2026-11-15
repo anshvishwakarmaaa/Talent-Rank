@@ -1,5 +1,7 @@
 # AI Resume Matching & Candidate Ranking System
 
+Live Demo : https://talent-rank-vtg7.onrender.com
+
 Paste/upload a Job Description, upload 10+ resumes (PDF/DOCX), and get a ranked, explainable shortlist.
 
 **Stack:** FastAPI · pypdf / python-docx · Sentence Transformers (`all-MiniLM-L6-v2`, TF-IDF fallback) · scikit-learn · vanilla JS dashboard (served by FastAPI, no build step).
