@@ -1,0 +1,8 @@
+Senior AI / Backend Engineer
+We are looking for an engineer with 4+ years of experience building AI-powered web services.
+Strong Python and FastAPI skills are required, along with PostgreSQL and REST API design.
+Hands-on experience with NLP, Transformers or spaCy for text processing is required.
+Experience with Docker and Git is required.
+Experience with React is a plus. AWS is nice to have.
+Bachelor's degree in Computer Science or related field.
+You will build semantic search and ranking systems that process large volumes of documents.
